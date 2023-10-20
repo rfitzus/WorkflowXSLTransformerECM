@@ -12,7 +12,7 @@ Converts ECM XML files to HTML documents with hyperlinks
 
 ![02-Workflow](https://github.com/rfitzus/WorkflowXSLTransformerECM/assets/51490261/f540b4d8-771c-439b-aa68-9e887f27c852)
 - Take a full screenshot of your workflow and save the image as workflow.png
--
+
 [[FreeFormatter](https://www.freeformatter.com/xsl-transformer.html)]
 - Use the above Url to convert your Epicor ECM workflow xml document into a html document
 - NOTE: Before downloading the xml file from Epicor ECM add comments to every Step
